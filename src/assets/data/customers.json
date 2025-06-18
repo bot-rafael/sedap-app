@@ -1,0 +1,268 @@
+[
+  {
+    "Customer ID": "C001",
+    "Customer Name": "John Doe",
+    "Email": "johndoe@example.com",
+    "Phone": "081234567890",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C002",
+    "Customer Name": "Jane Smith",
+    "Email": "janesmith@example.com",
+    "Phone": "082345678901",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C003",
+    "Customer Name": "Alice Johnson",
+    "Email": "alicej@example.com",
+    "Phone": "083456789012",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C004",
+    "Customer Name": "Bob Brown",
+    "Email": "bobbrown@example.com",
+    "Phone": "084567890123",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C005",
+    "Customer Name": "Charlie Davis",
+    "Email": "charliedavis@example.com",
+    "Phone": "085678901234",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C006",
+    "Customer Name": "David White",
+    "Email": "davidwhite@example.com",
+    "Phone": "086789012345",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C007",
+    "Customer Name": "Emma Green",
+    "Email": "emmagreen@example.com",
+    "Phone": "087890123456",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C008",
+    "Customer Name": "Frank Black",
+    "Email": "frankblack@example.com",
+    "Phone": "088901234567",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C009",
+    "Customer Name": "Grace Lewis",
+    "Email": "gracelewis@example.com",
+    "Phone": "089012345678",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C010",
+    "Customer Name": "Hannah Clark",
+    "Email": "hannahclark@example.com",
+    "Phone": "090123456789",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C011",
+    "Customer Name": "Isaac Martinez",
+    "Email": "isaacmartinez@example.com",
+    "Phone": "091234567890",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C012",
+    "Customer Name": "Jack Wilson",
+    "Email": "jackwilson@example.com",
+    "Phone": "092345678901",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C013",
+    "Customer Name": "Katherine Hall",
+    "Email": "katherinehall@example.com",
+    "Phone": "093456789012",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C014",
+    "Customer Name": "Liam Allen",
+    "Email": "liamallen@example.com",
+    "Phone": "094567890123",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C015",
+    "Customer Name": "Monica Young",
+    "Email": "monicayoung@example.com",
+    "Phone": "095678901234",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C016",
+    "Customer Name": "Nathan King",
+    "Email": "nathanking@example.com",
+    "Phone": "096789012345",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C017",
+    "Customer Name": "Olivia Scott",
+    "Email": "oliviascott@example.com",
+    "Phone": "097890123456",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C018",
+    "Customer Name": "Paul Walker",
+    "Email": "paulwalker@example.com",
+    "Phone": "098901234567",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C019",
+    "Customer Name": "Quincy Adams",
+    "Email": "quincyadams@example.com",
+    "Phone": "099012345678",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C020",
+    "Customer Name": "Rachel Nelson",
+    "Email": "rachelnelson@example.com",
+    "Phone": "100123456789",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C021",
+    "Customer Name": "Samuel Carter",
+    "Email": "samuelcarter@example.com",
+    "Phone": "101234567890",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C022",
+    "Customer Name": "Tina Perry",
+    "Email": "tinaperry@example.com",
+    "Phone": "102345678901",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C023",
+    "Customer Name": "Ursula Evans",
+    "Email": "ursulaevans@example.com",
+    "Phone": "103456789012",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C024",
+    "Customer Name": "Victor Moore",
+    "Email": "victormoore@example.com",
+    "Phone": "104567890123",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C025",
+    "Customer Name": "Wendy Brown",
+    "Email": "wendybrown@example.com",
+    "Phone": "105678901234",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C026",
+    "Customer Name": "Xander Harris",
+    "Email": "xanderharris@example.com",
+    "Phone": "106789012345",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C027",
+    "Customer Name": "Yasmine Carter",
+    "Email": "yasminecarter@example.com",
+    "Phone": "107890123456",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C028",
+    "Customer Name": "Zane Morris",
+    "Email": "zanemorris@example.com",
+    "Phone": "108901234567",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C029",
+    "Customer Name": "Aiden Lee",
+    "Email": "aidenlee@example.com",
+    "Phone": "109012345678",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C030",
+    "Customer Name": "Brianna Walker",
+    "Email": "briannawalker@example.com",
+    "Phone": "110123456789",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C031",
+    "Customer Name": "Cameron King",
+    "Email": "cameronking@example.com",
+    "Phone": "111234567890",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C032",
+    "Customer Name": "Diana Green",
+    "Email": "dianagreen@example.com",
+    "Phone": "112345678901",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C033",
+    "Customer Name": "Edward Scott",
+    "Email": "edwardscott@example.com",
+    "Phone": "113456789012",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C034",
+    "Customer Name": "Fiona Perez",
+    "Email": "fionaperez@example.com",
+    "Phone": "114567890123",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C035",
+    "Customer Name": "George Moore",
+    "Email": "georgemoore@example.com",
+    "Phone": "115678901234",
+    "Loyalty": "Silver"
+  },
+  {
+    "Customer ID": "C036",
+    "Customer Name": "Holly Clark",
+    "Email": "hollyclark@example.com",
+    "Phone": "116789012345",
+    "Loyalty": "Bronze"
+  },
+  {
+    "Customer ID": "C037",
+    "Customer Name": "Ian Hall",
+    "Email": "ianhall@example.com",
+    "Phone": "117890123456",
+    "Loyalty": "Gold"
+  },
+  {
+    "Customer ID": "C038",
+    "Customer Name": "Jill Carter",
+    "Email": "jillcarter@example.com",
+    "Phone": "118901234567",
+    "Loyalty": "Silver"
+  }
+]
