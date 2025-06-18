@@ -1,4 +1,5 @@
-import { FaUsers } from "react-icons/fa"; 
+import { CgNotes } from 'react-icons/cg';
+import { FaUsers } from 'react-icons/fa';
 import { GoArrowRight } from 'react-icons/go';
 import { BiError, BiDetail } from 'react-icons/bi';
 import { useState } from 'react';
@@ -65,7 +66,7 @@ export default function SidebarMenu() {
             Customers
           </NavLink>
         </li>
-        
+
         <li>
           <NavLink
             to="/users"
@@ -73,8 +74,20 @@ export default function SidebarMenu() {
             onClick={() => handleMainClick('menu-4')}
             aria-selected={activeMainMenu === 'menu-4'}
           >
-            <FaUsers  className="mr-4 text-xl" />
+            <FaUsers className="mr-4 text-xl" />
             User
+          </NavLink>
+        </li>
+
+        <li>
+          <NavLink
+            to="/notes"
+            className={`hover:text-hijau flex items-center rounded-xl p-4 font-medium ${activeMainMenu === 'menu-5' ? 'bg-green-100 font-extrabold' : ''}`}
+            onClick={() => handleMainClick('menu-5')}
+            aria-selected={activeMainMenu === 'menu-5'}
+          >
+            <CgNotes className="mr-4 text-xl" />
+            Notes
           </NavLink>
         </li>
 
